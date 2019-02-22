@@ -17,7 +17,9 @@ Reference:
 ![Hybrid System](https://raw.githubusercontent.com/czk32611/Hybrid-EEG-Gaze-Brain-Computer-Interface/master/Hybrid%20system.png)
 
 The subject is instructed to use his brain signal (motor imaginary) to control the robot arm in four directions in 2D.
+  
+The demo of this work can be found in https://www.youtube.com/watch?v=pIoZI_08u3I.  
 
-Reference:  
+References:  
   "Hybrid Brain Computer Interface via Bayesian integration of EEG and eye gaze", [NER 2015](https://ieeexplore.ieee.org/abstract/document/7146582)  
   "Hybrid gaze/EEG brain computer interface for robot arm control on a pick and place task", [EMBC 2015](https://ieeexplore.ieee.org/abstract/document/7318649)
