@@ -21,5 +21,12 @@ The subject is instructed to use his brain signal (motor imaginary) to control t
 The demo of this work can be found in https://www.youtube.com/watch?v=pIoZI_08u3I.  
 
 References:  
-  "Hybrid Brain Computer Interface via Bayesian integration of EEG and eye gaze", [NER 2015](https://ieeexplore.ieee.org/abstract/document/7146582)  
+    @inproceedings{dong2015hybrid,
+     title={Hybrid brain computer interface via Bayesian integration of EEG and eye gaze},
+     author={Dong, Xujiong and Wang, Haofei and Chen, Zhaokang and Shi, Bertram E},
+     booktitle={International IEEE/EMBS Conference on Neural Engineering (NER)},
+     pages={150--153},
+     year={2015},
+     organization={IEEE}
+     } 
   "Hybrid gaze/EEG brain computer interface for robot arm control on a pick and place task", [EMBC 2015](https://ieeexplore.ieee.org/abstract/document/7318649)
