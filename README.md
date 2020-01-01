@@ -11,7 +11,15 @@ To infer the target, we proposed a hidden-Markov-model-based algorithm to model 
 The demo of this work can be found in https://youtu.be/xyn6AthUFmc.  
   
 ### Bibtex 
-  "A Two-Stage Model for Inference of Target Identity during 2D Cursor Control from Natural Gaze Trajectories", [EMBC 2015](https://ieeexplore.ieee.org/document/7318402)
+
+    @inproceedings{chen2015two,
+     title={A two-stage model for inference of target identity during 2D cursor control from natural gaze trajectories},
+     author={Chen, Zhaokang and Shi, Bertram E},
+     booktitle={Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+     pages={474--477},
+     year={2015},
+     organization={IEEE}
+     }
 
 ## 2. Fuse the decision from EEG signal and eye gaze by Bayesian integration.
 ![Hybrid System](https://raw.githubusercontent.com/czk32611/Hybrid-EEG-Gaze-Brain-Computer-Interface/master/Hybrid%20system.png)
@@ -21,8 +29,7 @@ The subject is instructed to use his brain signal (motor imaginary) to control t
 The demo of this work can be found in https://www.youtube.com/watch?v=pIoZI_08u3I.  
 
 ### Bibtex 
-
-    ```
+    
     @inproceedings{dong2015hybrid,
      title={Hybrid brain computer interface via Bayesian integration of EEG and eye gaze},
      author={Dong, Xujiong and Wang, Haofei and Chen, Zhaokang and Shi, Bertram E},
@@ -31,6 +38,12 @@ The demo of this work can be found in https://www.youtube.com/watch?v=pIoZI_08u3
      year={2015},
      organization={IEEE}
      } 
-     ```
      
-  "Hybrid gaze/EEG brain computer interface for robot arm control on a pick and place task", [EMBC 2015](https://ieeexplore.ieee.org/abstract/document/7318649)
+    @inproceedings{wang2015hybrid,
+     title={Hybrid gaze/EEG brain computer interface for robot arm control on a pick and place task},
+     author={Wang, Haofei and Dong, Xujiong and Chen, Zhaokang and Shi, Bertram E},
+     booktitle={Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+     pages={1476--1479},
+     year={2015},
+     organization={IEEE}
+     }
