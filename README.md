@@ -10,7 +10,7 @@ To infer the target, we proposed a hidden-Markov-model-based algorithm to model 
   
 The demo of this work can be found in https://youtu.be/xyn6AthUFmc.  
   
-Reference:  
+### Bibtex 
   "A Two-Stage Model for Inference of Target Identity during 2D Cursor Control from Natural Gaze Trajectories", [EMBC 2015](https://ieeexplore.ieee.org/document/7318402)
 
 ## 2. Fuse the decision from EEG signal and eye gaze by Bayesian integration.
@@ -20,7 +20,8 @@ The subject is instructed to use his brain signal (motor imaginary) to control t
   
 The demo of this work can be found in https://www.youtube.com/watch?v=pIoZI_08u3I.  
 
-References: 
+### Bibtex 
+
     ```
     @inproceedings{dong2015hybrid,
      title={Hybrid brain computer interface via Bayesian integration of EEG and eye gaze},
@@ -31,4 +32,5 @@ References:
      organization={IEEE}
      } 
      ```
+     
   "Hybrid gaze/EEG brain computer interface for robot arm control on a pick and place task", [EMBC 2015](https://ieeexplore.ieee.org/abstract/document/7318649)
